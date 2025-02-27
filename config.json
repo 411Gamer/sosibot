@@ -1,0 +1,178 @@
+{
+    "token": "TOKEN",
+    "i": 1,
+    "sticker_ebat_ID": "CAACAgIAAyEFAASLXohYAAI4b2eZzBa8UPUsqfLH-NpdKbRWSKeBAALRXwACDDLxSL8pFkNn4mZkNgQ",
+    "sticker_ziga_ID": "CAACAgIAAxkBAAIBGmedAVDQnxHsC6HJfHoYmwEU9P62AAIhZAACCnzhSxB55FGzRBBSNgQ",
+    "sticker_svaston_ID": "CAACAgIAAxkBAAIBeWekmx86MsJUbNRpsLYn-A4cdamPAAJBTgAC5pM5SlMWPg12ZlEwNgQ",
+    "sticker_rastrel_ID": "CAACAgIAAxkBAAIBdGekmnQ1lAd173prpAeETRTiY4elAAIuEAACIbPASMff4K3-EsYBNgQ",
+    "sticker_5x30_ID": "CAACAgIAAxkBAAIDCWepuaTvqSr4ZUlE6wNiHaA-X8NxAAJSZQACVxYAAUgLI4f2D6eE9TYE",
+    "i": 1,
+    "i": 1,
+    "updated": true,
+    "version": "0.1.1.1",
+    "block_toggle": true,
+    "block_user": 1,
+    "history_file": "history.json",
+    "ChatsSettings_path": "Chats_Data",
+    "SocialCreditDB_file": "database.json",
+    "i": 1,
+    "i": 1,
+    "list1": [
+        "смачно",
+        "сматчно",
+        "смачнюще",
+        "сматчнюще",
+        "смачный",
+        "смачний",
+        "сматчный",
+        "сматчний"
+    ],
+    "list2": [
+        "Сладко",
+        "сладко",
+        "сладкий",
+        "Сладкий"
+    ],
+    "list3": [
+        "в жепу",
+        "в жопу",
+        "в пердак",
+        "в очко",
+        "в попу",
+        "в попень",
+        "в пизду"
+    ],
+    "list4": [
+        "немного",
+        "чу-чуть",
+        "не сильно"
+    ],
+    "list5": [
+        "жоско",
+        "сильно",
+        "мощно"
+    ],
+    "list6": [
+        "ногами",
+        "ногой",
+        "руками",
+        "рукой",
+        "палками",
+        "палкой"
+    ],
+    "list7": [
+        "с ног до головы",
+        "с ног до голови",
+        "с головы до ног",
+        "с голови до ног",
+        "с подливой"
+    ],
+    "call_list1": [
+        "отсос",
+        "минет",
+        "minet"
+    ],
+    "call_list2": [
+        "соси",
+        "сосать",
+        "сосі",
+        "сосни"
+    ],
+    "call_list3": [
+        "минет",
+        "мінет",
+        "мынет",
+        "minet"
+    ],
+    "call_list4": [
+        "ф",
+        "f",
+        "справедливо",
+        "жиза",
+        "+",
+        "+1",
+        "респект"
+    ],
+    "call_list5": [
+        "вьебать",
+        "вьебу",
+        "выебу",
+        "выебать",
+        "виебу",
+        "виебать",
+        "трахнуть",
+        "трахать",
+        "трахнуть",
+        "виебат",
+        "въебать",
+        "въебат",
+        "ебать"
+    ],
+    "call_list6": [
+        "обнять",
+        "обнимать",
+        "обнимашки",
+        "обнимашка",
+        "обнятый",
+        "обнятий",
+        "обняться"
+    ],
+    "call_list7": [
+        "растрелять",
+        "растрел",
+        "обстрелять"
+    ],
+    "call_list8": [
+        "свастон",
+        "свастоны",
+        "свастоний"
+    ],
+    "call_list9": [
+        "зига",
+        "зигу",
+        "загу",
+        "зага"
+    ],
+    "call_list10": [
+        "пиздить",
+        "пиздануть",
+        "уебать",
+        "уебашить",
+        "отпиздить"
+    ],
+    "call_list11": [
+        "ядерка",
+        "пульт от ядерки",
+        "ядерки",
+        "ядерку",
+        "nuke"
+    ],
+    "call_list12": [
+        "задротус",
+        "задрот"
+    ],
+    "call_list15": [
+        "обоссать",
+        "обосать",
+        "насать"
+    ],
+    "call_list16": [
+        "обоссрать",
+        "обосрать",
+        "обдристать"
+    ],
+    "call_list17": [
+        "5x30",
+        "5х30"
+    ],
+    "call_list18": [
+        "название группы",
+        "название групы",
+        "название группи",
+        "название групи"
+    ],
+    "system_prompt": {
+        "role": "system",
+        "content": "Ты — Телеграм бот."
+    }
+}
